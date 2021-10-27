@@ -3,7 +3,7 @@ import * as bodyParser from 'body-parser';
 import * as cors from 'cors';
 import * as logger from 'morgan';
 
-import { routerConversor } from './route/conversor';
+import { routerConversor } from './route/ConverterRoute';
 
 /**
  * Cria a aplicação
